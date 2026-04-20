@@ -7,5 +7,5 @@ const maxCars = 25;
     window.alert("There are " + carCounter + " cars in the garage.");
     carCounter += 1;
 }
-    window.alert("The garage is full! There are " + maxCars + " cars in the garage.");
+    window.alert("The garage is full! There are " + carCounter + " cars in the garage.");
 } 
